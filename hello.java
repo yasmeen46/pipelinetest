@@ -7,7 +7,7 @@ public class HelloWorld {
 					if (bigger) {
 									return "Hello Universe!";
 											} else {
-															return "Hello World, Hello,Hello!";											}
+															return "Hello World, Hello, Hello!";											}
 						}
 
 }package org.jacoco.examples.maven.java;
