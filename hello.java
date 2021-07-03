@@ -1,3 +1,4 @@
+//New Changes are added
 package org.jacoco.examples.maven.java;
 
 public class HelloWorld {
@@ -6,7 +7,7 @@ public class HelloWorld {
 					if (bigger) {
 									return "Hello Universe!";
 											} else {
-															return "Hello World!";
+															return "Hello World, Hello Hello!";
 																	}
 						}
 
